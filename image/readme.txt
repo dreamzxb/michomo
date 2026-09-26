@@ -1,0 +1,1 @@
+图标是给openclash的michomo内核配置文件规则中调用的图标
